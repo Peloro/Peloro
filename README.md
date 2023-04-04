@@ -4,7 +4,6 @@
 
 ---
 
- ![Twitch Status](https://img.shields.io/twitch/status/peloroosu?style=social) ![GitHub followers](https://img.shields.io/github/followers/Peloro?style=social) ![GitLab stars](https://img.shields.io/gitlab/stars/Peloro45?gitlab_url=https%3A%2F%2Fgitlab.com%2FPeloro45&style=social)
 
 - 🔭 Hi! My name is Pedro, a 18 year-old Computer Science student from Brazil that especializes in C/C++. As of now, I'm just looking to improve my skills at coding by applying myself in college while doing some projects that I may find interesting.
 
