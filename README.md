@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hey Hey, Peloro here! :grin:
 
-<!--
-**Peloro/Peloro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ![Twitch Status](https://img.shields.io/twitch/status/peloroosu?style=social) ![GitHub followers](https://img.shields.io/github/followers/Peloro?style=social) ![GitLab stars](https://img.shields.io/gitlab/stars/Peloro45?gitlab_url=https%3A%2F%2Fgitlab.com%2FPeloro45&style=social)
+
+- 🔭 Hi! My name is Pedro, a 18 year-old Computer Science student from Brazil that especializes in C/C++. As of now, I'm just looking to improve my skills at coding by applying myself in college while doing some projects that I may find interesting.
+
+- 🌱 My primary focus is to get better at the languages that I already know and use while also trying out new ones.
+
+- 📫 You can contact me via Instagram @peloro45 or via email at plf@outlook.com.br
+
+
+---
+
+
+- 💻 Languages Learned
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="80" height="80">
+
+- 🕒 Languages to Learn
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="80" height="80">
