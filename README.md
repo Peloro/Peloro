@@ -12,17 +12,19 @@
 
 - 🌱 My primary focus is to get better at the languages that I already know while also trying out new ones.
 
+- 🖱️ For coding, I use Linux(Ubuntu/Fedora), but my daily driver usually is Windows 10.
+
 - 📫 You can contact me via Instagram @peloro45 or via email at plf@outlook.com.br
 
 
 ---
 
 
-- 💻 Languages Learned
+- 💻 Languages Learned:
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="80" height="80">
 
-- 🕒 Languages to Learn
+- 🕒 Languages to Learn:
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="80" height="80">
   
