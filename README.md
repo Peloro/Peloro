@@ -11,7 +11,7 @@
 
 - 🌱 My primary focus is to get better at the languages that I already know while also trying out new ones.
 
-- 🖱️ For coding, I use Linux(Ubuntu/Fedora), but my daily driver usually is Windows 10.
+- 🖱️ For coding, my SO of choice Linux(Ubuntu/Fedora), but my daily driver usually is Windows 10.
 
 - 📫 You can contact me via Instagram @peloro45 or via email at plf@outlook.com.br
 
