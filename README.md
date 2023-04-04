@@ -10,7 +10,7 @@
 
 - 🎮 I love playing games in my spare time (although College doesn't leave that much time for that).
 
-- 🌱 My primary focus is to get better at the languages that I already know and use while also trying out new ones.
+- 🌱 My primary focus is to get better at the languages that I already know while also trying out new ones.
 
 - 📫 You can contact me via Instagram @peloro45 or via email at plf@outlook.com.br
 
