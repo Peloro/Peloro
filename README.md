@@ -7,6 +7,8 @@
 
 - 🔭 Hi! My name is Pedro, a 18 year-old Computer Science student from Brazil that especializes in C/C++. As of now, I'm just looking to improve my skills at coding by applying myself in college while doing some projects that I may find interesting.
 
+- 🎮 I love playing games in my spare time (although College doesn't leave that much time for that).
+
 - 🌱 My primary focus is to get better at the languages that I already know and use while also trying out new ones.
 
 - 📫 You can contact me via Instagram @peloro45 or via email at plf@outlook.com.br
