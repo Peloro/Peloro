@@ -5,7 +5,7 @@
 ---
 
 
-- 🔭 Hi! My name is Pedro, a 18 year-old Computer Science student from Brazil that especializes in C/C++. As of now, I'm just looking to improve my skills at coding by applying myself in college while doing some projects that I may find interesting.
+- 🔭 Hi! My name is Pedro, a 21 year-old Computer Science student from Brazil that especializes in C/C++. As of now, I'm just looking to improve my skills at coding by applying myself in college while doing some projects that I may find interesting.
 
 - 🎮 I love playing games in my spare time (although College doesn't leave that much time for that).
 
