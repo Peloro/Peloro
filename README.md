@@ -1,19 +1,19 @@
 <br>
 
-### Hey Hey, Peloro here! :grin:
+### Hey Hey, Peloro here!
 
 ---
 
 
-- 🔭 Hi! My name is Pedro, a 21 year-old Computer Science student from Brazil. As of now, I'm just looking to improve my skills at coding by applying myself in college while doing some projects that I may find interesting. I have expertise and have worked in projects related to Computer Vision, Fullstack Developing and Database Manipulation.
+- Hi! My name is Pedro, a 21 year-old Computer Science student from Brazil. As of now, I'm just looking to improve my skills at coding by applying myself in college while doing some projects that I may find interesting. I have expertise and have worked in projects related to Computer Vision, Fullstack Developing and Database Manipulation.
 
-- 🖱️ My SO of choice Linux(Ubuntu/Mint), dual-booted with Windows 11
+- My SO of choice Linux(Ubuntu/Mint), dual-booted with Windows 11
 
 
 ---
 
 
-- 💻 Tools I'm Familiar With:
+- Tools I'm Familiar With:
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/ros/ros-original-wordmark.svg" width="80" height="80">
   
