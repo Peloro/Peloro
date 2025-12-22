@@ -41,3 +41,10 @@ This project was developed as part of an undergraduate course in Web Development
 
 One of the key takeaways from this project was gaining hands-on experience in building RESTful APIs, implementing session-based authentication, and managing a NoSQL database, as well as designing a modular and maintainable backend codebase.
 
+<br>
+
+- [Overtone – Volume Overlay for Windows](https://github.com/Peloro/overtone-volume-overlay)
+
+Overtone is a modern, lightweight volume mixer overlay for Windows that provides per-application and system-wide volume control through an always-on-top interface. It offers individual sliders for each running application, editable volume values, and quick mute and unmute functionality.
+
+Built with Python and PyQt5, the application includes customizable global hotkeys, application filtering, theme customization, profile management, and system tray integration. This project strengthened my experience with Windows audio APIs, event-driven desktop application development, and UI/UX design focused on productivity.
