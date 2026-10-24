@@ -1,50 +1,95 @@
-<br>
+<h1 align="center">Pedro Louro Fernandes</h1>
+<p align="center">
+  <b>Full-Stack Developer · Computer Science @ ICMC-USP · Robotics & Data</b>
+</p>
 
-### Hey Hey, Peloro here!
-
----
-
-
-- Hi! My name is Pedro, a 21 year-old Computer Science student from Brazil. As of now, I'm just looking to improve my skills at coding by applying myself in college while doing some projects that I may find interesting. I have expertise and have worked in projects related to Computer Vision, Fullstack Developing and Database Manipulation.
-
-- My SO of choice Linux(Ubuntu/Mint), dual-booted with Windows 11
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedro-louro-fernandes/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:plf@outlook.com.br"><img src="https://img.shields.io/badge/Email-plf%40outlook.com.br-1d4e89?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
+### About me
 
-- Tools I'm Familiar With:
+- I build and maintain **InPlay**, a production SaaS for live baseball scoring and team analytics, on my own: product, front end, back end, mobile and operations.
+- At **Warthog Robotics** (USP), I develop locomotion software for assistive autonomous robots: navigation, obstacle avoidance and motion control with ROS.
+- I study Computer Science at the **University of São Paulo (ICMC)**. My interests are software engineering, data and applied AI.
+- I like turning complex domain rules into reliable, well-tested systems.
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="80" height="80"> <img src="https://github.com/devicons/devicon/blob/master/icons/ros/ros-original-wordmark.svg" width="80" height="80">
-  
 ---
 
-<br>
+### Featured project
 
--- I've worked in projects such as: 
+#### InPlay Baseball Analytics · *Founder & Full-Stack Developer (2026 – present)*
 
-- [Robot with Computer Vision and Speech Recognition](https://github.com/EnzoTM/R2_D2)
+A multi-tenant SaaS for amateur baseball clubs to score games live and track season statistics. It runs on the web and as an Android app.
 
-This project was developed collaboratively as part of an electronics course at university and showcased at the Undergraduate Research Symposium (SIICUSP 2023) at the University of São Paulo.
+- **Offline-first:** all data lives in IndexedDB and syncs in the background, with idempotent request replay and conflict-safe merging across devices. Scoring keeps working in dugouts with no signal.
+- **Rules engine:** every play is recorded in an event log, and the whole game state can be rewound to any play. The app derives batting and pitching stats (AVG, OBP, OPS, ERA, WHIP), spray charts and pitch heatmaps.
+- **Real SaaS:** 4-tier plan ladder with Mercado Pago billing (one-off and recurring), JWT auth with team invites, TOTP 2FA, Firebase push notifications and transactional e-mail.
+- **Engineering:** unit and integration tests (Vitest, in-memory MongoDB), Playwright E2E with WCAG accessibility checks, GitHub Actions CI/CD with signed APK builds, Sentry monitoring, and a UI in Portuguese, English and Spanish.
 
-The objective was to integrate machine learning capabilities—such as computer vision and natural language processing—into a robot controlled by an ESP-32 microcontroller.
+`TypeScript` `React` `Node.js` `Express` `MongoDB` `IndexedDB` `Capacitor` `Vitest` `Playwright` `GitHub Actions`
 
-My primary responsibility focused on embedded software development for the ESP-32, using C++ to implement core communication and navigation systems.
+---
 
-Official [certificate](https://drive.google.com/file/d/1yw5TbL3bTsvKT0r6YJKZV02f3wh_FrvR/view) of participation in the Symposium.
+### Other projects
 
-<br>
+**[Overtone: Volume Overlay for Windows](https://github.com/Peloro/overtone-volume-overlay)**
+A lightweight, always-on-top volume mixer with per-application and system-wide control. Features include global hotkeys, app filtering, themes, profiles and system tray integration. It is built on the Windows audio APIs with an event-driven desktop architecture.
+`Python` `PyQt5` `Windows Core Audio`
 
-- [FullStack Development of an Apartment Complex Store System](https://github.com/joaopgodoy/online_store_project)
+**[Robot with Computer Vision and Speech Recognition](https://github.com/EnzoTM/R2_D2)**
+A team project presented at the USP Undergraduate Research Symposium (SIICUSP 2023), which added computer vision and speech recognition to a robot driven by an ESP-32. I wrote the embedded C++ firmware for its communication and navigation. ([certificate](https://drive.google.com/file/d/1yw5TbL3bTsvKT0r6YJKZV02f3wh_FrvR/view))
+`C++` `ESP-32` `Computer Vision` `CNNs`
 
-This project was developed as part of an undergraduate course in Web Development, with the main goal of implementing a full-stack online store application using Node.js, Express, and MongoDB on the backend, and EJS for server-side rendering on the frontend. The system supports features such as product listing, user registration and authentication, shopping cart management, and order placement.
+**[Apartment Complex Online Store](https://github.com/joaopgodoy/online_store_project)**
+A full-stack store with product listing, registration and session-based authentication, shopping cart and order placement. It uses a modular REST back end on a NoSQL database.
+`Node.js` `Express` `MongoDB` `EJS`
 
-One of the key takeaways from this project was gaining hands-on experience in building RESTful APIs, implementing session-based authentication, and managing a NoSQL database, as well as designing a modular and maintainable backend codebase.
+---
 
-<br>
+### Tech stack
 
-- [Overtone – Volume Overlay for Windows](https://github.com/Peloro/overtone-volume-overlay)
+**Languages**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" title="TypeScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" title="C">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" title="C++">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java">
+</p>
 
-Overtone is a modern, lightweight volume mixer overlay for Windows that provides per-application and system-wide volume control through an always-on-top interface. It offers individual sliders for each running application, editable volume values, and quick mute and unmute functionality.
+**Full-stack & mobile**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" title="React">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" title="Node.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" title="MongoDB">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3">
+</p>
 
-Built with Python and PyQt5, the application includes customizable global hotkeys, application filtering, theme customization, profile management, and system tray integration. This project strengthened my experience with Windows audio APIs, event-driven desktop application development, and UI/UX design focused on productivity.
+**Data & AI**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" title="PyTorch">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" title="TensorFlow">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV" title="OpenCV">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" title="NumPy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" title="Pandas">
+</p>
+
+**DevOps, tooling & robotics**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions" title="GitHub Actions">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" title="Linux">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="40" height="40" alt="ROS" title="ROS">
+</p>
+
+---
+
+<p align="center"><i>Open to conversations about software engineering, full-stack and data roles. Feel free to reach out.</i></p>
