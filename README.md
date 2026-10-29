@@ -21,7 +21,7 @@
 
 ### Featured project
 
-#### InPlay Baseball Analytics · *Founder & Full-Stack Developer (2026 – present)*
+#### [InPlay Baseball Analytics](https://github.com/Peloro/InPlay-Baseball-Analytics) · *Founder & Full-Stack Developer (2026 – present)*
 
 A multi-tenant SaaS for amateur baseball clubs to score games live and track season statistics. It runs on the web and as an Android app.
 
@@ -35,6 +35,10 @@ A multi-tenant SaaS for amateur baseball clubs to score games live and track sea
 ---
 
 ### Other projects
+
+**[CacoAI: AI Personal Finance Assistant](https://github.com/Peloro/CacoAI)**
+A chat bot that logs expenses and income from plain, natural-language messages ("spent 30 on lunch") and turns them into categorized, structured records, then answers questions about the user's spending. Before choosing a model, I benchmarked local LLMs (Llama) against hosted APIs (Gemini, OpenAI, Claude) on classification quality and cost per message, and picked Gemini for the best balance. The MVP runs on Telegram, after I found the official WhatsApp API too costly for an AI bot at this stage.
+`LLMs` `Gemini API` `Groq` `Llama` `Telegram Bot API`
 
 **[Overtone: Volume Overlay for Windows](https://github.com/Peloro/overtone-volume-overlay)**
 A lightweight, always-on-top volume mixer with per-application and system-wide control. Features include global hotkeys, app filtering, themes, profiles and system tray integration. It is built on the Windows audio APIs with an event-driven desktop architecture.
